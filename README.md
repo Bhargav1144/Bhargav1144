@@ -24,21 +24,3 @@ Beyond my technical work in Python and AI, I have a strong foundation in busines
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvectorified.com%2Fimages%2Ftableau-icon-26.jpg&f=1&nofb=1&ipt=c4182b7735ad8c2b8e31b577825973b2fb2bb3b442e28057ce259eb218e86c70" alt="tableau" width="40" height="40"/>&nbsp;
 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fagilizing.com%2Fwp-content%2Fuploads%2F2023%2F02%2FSSGB-512.png&f=1&nofb=1&ipt=e9194de6e7b46664bdc7a29179ea05ef2e93f8e3640809aec4bce6555b4df26d" alt="lean six sigma green belt from grant thornton" width="40" height="40"/>&nbsp;
 </p>
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Bhargav1144&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav1144&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bhargav1144&theme=null" alt="GitHub Streak" />
-
-<img src="https://profile-counter.glitch.me/Bhargav1144/count.svg?" alt="visitors count" />
-
-## GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bhargav1144" alt="trophy" />
-
-## GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhargav1144&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph" />
